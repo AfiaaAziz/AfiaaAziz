@@ -11,6 +11,6 @@ I'm an enthusiastic first-year Computer Science student at Air University, drive
 - Mastering data structures and algorithms
 - Pursuing courses, certifications, and internships to broaden my knowledge
 
-📧 **Feel free to reach out at [afiaaziz044@gmail.com](mailto:afiaaziz044@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/afia-aziz-0a65382a6/) to discuss technology and exchange ideas.**
+📧 **Reach out at [afiaaziz044@gmail.com](mailto:afiaaziz044@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/afia-aziz-0a65382a6/) to discuss technology and exchange ideas.**
 
 I’m passionate about collaborating on innovative projects and sharing my tech journey. Let's connect and create something extraordinary together!
