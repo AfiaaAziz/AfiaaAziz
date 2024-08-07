@@ -1,4 +1,4 @@
-# Hello! I'm Afia 👋
+#Bio
 
 I'm an enthusiastic first-year Computer Science student at Air University, driven by a curiosity for the dynamic world of technology. I’m committed to expanding my skills, delving into data structures and algorithms, and fostering connections within the tech community.
 
