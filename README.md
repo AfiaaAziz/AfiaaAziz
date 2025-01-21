@@ -1,4 +1,4 @@
-## About Me 👩‍💻  
+## About Me 
 
 Hi, I'm **Afia Aziz**, a passionate Computer Science student at Air University with a growing enthusiasm for **Web Development** and **technology innovation**. I’m currently building responsive web applications with **HTML**, **CSS**, and **JavaScript**. My goal is to enhance my skills in both **frontend and backend development** and collaborate on impactful projects that combine creativity with technology.  
 
