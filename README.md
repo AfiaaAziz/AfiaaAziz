@@ -1,8 +1,6 @@
 ## About Me 
 
-Hi, I’m **Afia Aziz**, a Computer Science student at Air University with a strong interest in **Full Stack Web Development** and **technology innovation**.  
-
-I enjoy building **responsive, user-friendly applications** and exploring both **frontend and backend development**. My focus is on continuous learning, improving my problem-solving skills, and contributing to projects that create meaningful impact.  
+Hi, I’m **Afia Aziz**, a Computer Science student at Air University with a strong interest in **Full Stack Web Development** and **technology innovation**. I enjoy building **responsive, user-friendly applications** and exploring both **frontend and backend development**. My focus is on continuous learning, improving my problem-solving skills, and contributing to projects that create meaningful impact.  
 
 I’m always open to collaborating, sharing knowledge, and growing as part of the tech community.  
 
